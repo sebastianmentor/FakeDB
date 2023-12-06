@@ -11,3 +11,5 @@ I FakeDB.py så sätt upp mot din egna konfigurering:
 6. PWD = 'password'
 
 Kom ihåg att det är det sista momentet att ladda in all Orderdetails som verkar ta längst tid!
+
+Kör FakeDB.py för att börja ladda databasen! Kom ihåg att har rätt namn! DATABASE_NAME ska vara namnet i databasen!
