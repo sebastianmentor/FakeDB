@@ -1,0 +1,3 @@
+PS5,5999
+Samsung TV 75tum,48000
+Nvidia 4090,23999

@@ -1,0 +1,5 @@
+Mango,10
+Banan,6
+Äpple,8
+Melon,23
+Apelsin,16
